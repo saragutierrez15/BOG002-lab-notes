@@ -1,0 +1,60 @@
+.loginContainer {
+    background-color: #576A82;
+}
+.loginStart { 
+   display: flex; 
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding: 5% 0% 4% 0%;   
+   width: 673px;
+   height: 389px;
+   left: 346px;
+   top: 512px;
+   background: #F5E7DE;
+   border-radius: 5px;
+   margin: 2% 0% 3% 0%; 
+}
+.loginRegister{
+   display: flex; 
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding: 5% 0% 4% 0%;   
+   width: 673px;
+   height: 150px;
+   left: 346px;
+   top: 512px;
+   background: #F5E7DE;
+   border-radius: 5px;
+   margin: 2% 0% 3% 0%; 
+
+}
+.input {  
+   color:#576A82;   
+   width: 452px;
+   height: 54px;
+   left: 457px;
+   top: 393px;
+   background: #FFFFFF;
+   border: 1px solid #576A82;
+   box-sizing: border-box;
+   border-radius: 4px;
+   padding: 3%;
+   margin: 2% 1% 1% 1%;
+}
+.button {
+   background:#576A82;
+   color:#f5e7de;
+   border: none;
+   width: 264px;
+   height: 45px;
+   left: 560px;
+   top: 751px;
+   margin: 2% 0% 3% 0%;  
+   border-radius: 2px;
+}
+.errorP {
+   color:#576A82;
+   font-size: small;
+}
